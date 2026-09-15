@@ -17,15 +17,4 @@ The main goal is to provide a mathematically rigorous yet accessible introductio
 
 Although these approaches are often taught separately, these notes emphasize that both arise naturally from the same physical principle: **conservation of mass**.
 
----
-
-## Repository structure
-
-```text
-.
-├── slides/         # Beamer presentations used during the workshop
-├── notes/          # Lecture notes (LaTeX article for arXiv)
-├── code/           # Python simulations
-├── figures/        # Figures used throughout the course
-├── LICENSE
-└── README.md
+--
